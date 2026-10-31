@@ -11,7 +11,7 @@
 
 ### 📥 Ссылка для добавления в приложение (Happ)
 
-https://raw.githubusercontent.com/fag2548-pixel/FDDE-Vpn/refs/heads/main/Vpn%20config
+https://raw.githubusercontent.com/fag2548-pixel/FDDE-vpn/refs/heads/main/Vpn%20config
 
 ---
 👉 **[Подробная инструкция (Readme full)](https://github.com/fag2548-pixel/FDDE-Vpn/blob/main/Readme%20full.md)**
