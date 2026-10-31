@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🚀 FreeS-Vpn</h1>
-  <p><b>Агрегатор быстрых VPN-конфигураций</b></p>
+  <h1>🚀 FDDE Vpn</h1>
+  <p><b>Бесплатные конфиги Happ</b></p>
   
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Updated-Auto-blue?style=flat-square" alt="Auto Update">
@@ -11,7 +11,7 @@
 
 ### 📥 Ссылка для добавления в приложение (Happ)
 
-https://raw.githubusercontent.com/fag2548-pixel/FreeS-Vpn/refs/heads/main/Vpn%20config
+https://raw.githubusercontent.com/fag2548-pixel/FDDE-Vpn/refs/heads/main/Vpn%20config
 
 ---
-👉 **[Подробная инструкция (Readme full)](https://github.com/fag2548-pixel/FreeS-Vpn/blob/main/Readme%20full.md)**
+👉 **[Подробная инструкция (Readme full)](https://github.com/fag2548-pixel/FDDE-Vpn/blob/main/Readme%20full.md)**
