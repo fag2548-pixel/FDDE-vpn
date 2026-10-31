@@ -12,4 +12,3 @@
 ### 📥 Ссылка для добавления в приложение (Happ)
 ```text
 https://raw.githubusercontent.com/fag2548-pixel/FreeS-Vpn/refs/heads/main/Vpn%20config
-👉 **[Нажми здесь, чтобы прочитать полное описание и инструкцию](Readme%20full)**
