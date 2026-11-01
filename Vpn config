@@ -1,14 +1,16 @@
 # profile-title: FDDE Vpn
 # profile-update-interval: 12
 ss://YWVzLTEyOC1nY206cGFzc3dvcmQ=@127.0.0.1:8080#📌 ИНФО: AL-обычный, BL-белый
+trojan://Bu4p9zbhpYXdt7My7f6XS47xL0y11_We@194.46.58.210:8443?security=tls&sni=vel.cishosts.org&alpn=h2%2C%20http%2F1.1&fp=qq&type=tcp&headerType=none#🇬🇧 AL Великобритания [YT 📺] [БЫСТРЫЙ 🔥]
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@144.31.4.234:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=direct-nl.bachidze.com&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&type=tcp&headerType=none#🇵🇱 AL Польша [YT 📺] [БЫСТРЫЙ 🔥]
 vless://a0052f4f-4c63-485a-a16f-ab2d5d718cd3@vivozim.vyvoz-musora.cc:443?encryption=none&security=tls&sni=vivozim.vyvoz-musora.cc&alpn=http%2F1.1&fp=edge&type=ws&host=vivozim.vyvoz-musora.cc&path=%2Fe8ws&headers=%7B%0A%20%20%22Host%22%3A%20%22vivozim.vyvoz-musora.cc%22%0A%7D#🇪🇺 BL Европа 5G [БЫСТРЫЙ 🔥]
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?encryption=none&security=reality&sni=maps.blog-forme.ru&fp=firefox&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&type=xhttp&mode=auto&path=%2Fv2%2Fsync%2F6e9367#🇲🇩 AL Молдова [БЫСТРЫЙ 🔥]
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&sni=www.iloverussia2026.com&fp=chrome&type=tcp&headerType=none#🇩🇪 AL Германия 2 [БЫСТРЫЙ 🔥]
+trojan://humanity@46.174.142.238:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#🇦🇪 AL ОАЭ [БЫСТРЫЙ 🔥]
+vless://a449b942-e70d-4124-96c1-a489e701d7ee@13.143.184.226:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=msc1.serverslocal.ru&fp=firefox&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&sid=f7e66e308136e1a1&type=tcp&headerType=none#🇺🇦 AL Украина [БЫСТРЫЙ 🔥]
+trojan://humanity@172.66.0.172:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#🇺🇸 AL США [БЫСТРЫЙ 🔥]
+vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.com&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none#🇪🇺 AL Европа MTS [БЫСТРЫЙ 🔥]
 ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.219:8080#🇳🇱 AL Нидерланды [БЫСТРЫЙ 🔥]
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@stream.blog-forme.ru:2083?encryption=none&security=reality&sni=stream.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%221800-3000%22%2C%22hMaxReusableSecs%22%3A%2210800-14400%22%7D%7D#🇳🇱 AL Нидерланды 2 [СРЕДНИЙ 🟡]
-trojan://humanity@46.174.142.238:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#🇦🇪 AL ОАЭ [СРЕДНИЙ 🟡]
-vless://a449b942-e70d-4124-96c1-a489e701d7ee@13.143.184.226:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=msc1.serverslocal.ru&fp=firefox&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&sid=f7e66e308136e1a1&type=tcp&headerType=none#🇺🇦 AL Украина [СРЕДНИЙ 🟡]
-trojan://humanity@172.66.0.172:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#🇺🇸 AL США [СРЕДНИЙ 🟡]
-vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.com&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none#🇪🇺 AL Европа MTS [СРЕДНИЙ 🟡]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&sni=www.iloverussia2026.com&fp=chrome&type=tcp&headerType=none#🇩🇪 AL Германия [СРЕДНИЙ 🟡]
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@stream.blog-forme.ru:2083?encryption=none&security=reality&sni=stream.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%221800-3000%22%2C%22hMaxReusableSecs%22%3A%2210800-14400%22%7D%7D#🇳🇱 AL Нидерланды [СРЕДНИЙ 🟡]
 trojan://5t6i121em5lkmsmk@216.128.185.90:46977?security=tls&sni=ca001.zestapp778.com&fp=firefox&type=tcp&headerType=none#🇨🇦 AL Канада [МЕДЛЕННЫЙ 🐢]
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp&headerType=none#🇨🇦 AL Канада 2 [МЕДЛЕННЫЙ 🐢]
