@@ -1,0 +1,438 @@
+[
+  {
+    "remarks": "FDDE Auto AL",
+    "log": {
+      "loglevel": "warning"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10808,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "tag": "balancer-out",
+        "protocol": "freedom",
+        "settings": {}
+      },
+      {
+        "tag": "proxy-uk",
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "194.46.58.210",
+              "port": 8443,
+              "password": "Bu4p9zbhpYXdt7My7f6XS47xL0y11_We"
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "vel.cishosts.org",
+            "alpn": ["h2", "http/1.1"],
+            "fingerprint": "qq"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-poland",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "144.31.4.234",
+              "port": 443,
+              "users": [
+                {
+                  "id": "3bb97d46-789b-4229-88f6-9beb222a4137",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "direct-nl.bachidze.com",
+            "fingerprint": "firefox",
+            "publicKey": "E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw",
+            "shortId": ""
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-usa2",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "swedenafteraventura.space",
+              "port": 443,
+              "users": [
+                {
+                  "id": "50a87e21-f0e2-4b53-a787-91adfe748f63",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "swedenafteraventura.space",
+            "fingerprint": "chrome",
+            "publicKey": "TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY",
+            "shortId": ""
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-lithuania",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "72.56.52.229",
+              "port": 443,
+              "users": [
+                {
+                  "id": "2614a96d-e39f-4cca-a9c7-467a178c2c0a",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "lv.dexlen.cc",
+            "fingerprint": "firefox",
+            "publicKey": "OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ",
+            "shortId": ""
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-uae2",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "193.233.161.169",
+              "port": 2054,
+              "users": [
+                {
+                  "id": "4670f60e-cd56-44cc-bc22-5e2b756d62e4",
+                  "encryption": "none",
+                  "flow": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "shopcart.tsumshop.org",
+            "fingerprint": "chrome",
+            "publicKey": "tPBzeL2YxY3HeuLHFcqiMcWGOJGKFjavHA8acamM0AE",
+            "shortId": ""
+          },
+          "grpcSettings": {
+            "serviceName": "grpc-tunnel"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-saudi",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "201.8.87.43",
+              "port": 2087,
+              "users": [
+                {
+                  "id": "4670f60e-cd56-44cc-bc22-5e2b756d62e4",
+                  "encryption": "none",
+                  "flow": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "node.gamescloud.uk",
+            "fingerprint": "chrome",
+            "publicKey": "AzvW_qn5T1RB5XT1M5yIqRFGKWR6R_B1Js4S3mglrV4",
+            "shortId": "33987487841d621b"
+          },
+          "grpcSettings": {
+            "serviceName": "grpc-tunnel"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-switzerland",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "201.8.81.33",
+              "port": 2087,
+              "users": [
+                {
+                  "id": "4670f60e-cd56-44cc-bc22-5e2b756d62e4",
+                  "encryption": "none",
+                  "flow": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "apps.gamescloud.uk",
+            "fingerprint": "chrome",
+            "publicKey": "VkyBNSJ5KrLqrm6xytxHe7QDlAn3KLu1uqjCpTa7sDE",
+            "shortId": "310ba0da59aeb309"
+          },
+          "grpcSettings": {
+            "serviceName": "grpc-tunnel"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-cyprus",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "ee1.vpngold.ru",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "a52fd54b-ba4d-4d11-8e00-301e2646cd66",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ee1.vpngold.ru",
+            "fingerprint": "firefox",
+            "publicKey": "1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8",
+            "shortId": "385cb18df0892069"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-moldova",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "178.17.52.236",
+              "port": 2083,
+              "users": [
+                {
+                  "id": "6da2c981-8c77-4340-bda3-93399b7aea26",
+                  "encryption": "none",
+                  "flow": ""
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "maps.blog-forme.ru",
+            "fingerprint": "firefox",
+            "publicKey": "mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY",
+            "shortId": "3258252d44113e23"
+          },
+          "xhttpSettings": {
+            "path": "/v2/sync/6e9367",
+            "mode": "auto"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-uae",
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "46.174.142.238",
+              "port": 443,
+              "password": "humanity"
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "www.cordweave.com"
+          },
+          "wsSettings": {
+            "path": "/assignment"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-ukraine",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "13.143.184.226",
+              "port": 443,
+              "users": [
+                {
+                  "id": "a449b942-e70d-4124-96c1-a489e701d7ee",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "msc1.serverslocal.ru",
+            "fingerprint": "firefox",
+            "publicKey": "qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk",
+            "shortId": "f7e66e308136e1a1"
+          },
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      },
+      {
+        "tag": "proxy-netherlands",
+        "protocol": "shadowsocks",
+        "settings": {
+          "servers": [
+            {
+              "address": "82.38.31.219",
+              "port": 8080,
+              "method": "chacha20-ietf-poly1305",
+              "password": "k1dBOmOB4oqi7Ump37a1bQ"
+            }
+          ]
+        },
+        "streamSettings": {
+          "sockopt": {
+            "tcpFastOpen": true
+          }
+        }
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "balancers": [
+        {
+          "tag": "auto-balancer",
+          "selector": [
+            "proxy-"
+          ],
+          "strategy": {
+            "type": "leastPing"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "type": "field",
+          "network": "tcp,udp",
+          "balancerTag": "auto-balancer"
+        }
+      ]
+    },
+    "burstObservatory": {
+      "subjectSelector": [
+        "proxy-"
+      ],
+      "pingConfig": {
+        "destination": "https://www.google.com/generate_204",
+        "interval": "1m",
+        "timeout": "5s",
+        "sampling": 3
+      }
+    }
+  }
+        ]
