@@ -1,8 +1,12 @@
 <div align="center">
   <h1>🚀 FDDE Vpn</h1>
   <p><b>Бесплатные конфиги Happ</b></p>
+  
+  <!-- Анимированная иконка Meteocons -->
+  <img src="https://api.iconify.design/meteocons:extreme-day-snow-fill.svg" width="80" alt="Weather Animation">
 
   <!-- Бейджи -->
+  <br>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Updated-12h-blue?style=for-the-badge" alt="Updated">
   <img src="https://img.shields.io/badge/Sorted_by-AI-purple?style=for-the-badge" alt="AI Sorted">
