@@ -2,8 +2,8 @@
   <h1>🚀 FDDE Vpn</h1>
   <p><b>Бесплатные конфиги Happ</b></p>
   
-  <!-- Анимированная иконка Meteocons -->
-  <img src="https://api.iconify.design/meteocons:extreme-day-snow-fill.svg" width="80" alt="Weather Animation">
+  <!-- Твоя 8-битная анимация -->
+  <img src="aanimation.gif" width="150" alt="Aanimation">
 
   <!-- Бейджи -->
   <br>
