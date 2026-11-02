@@ -68,3 +68,48 @@
 Если вы знаете **хороший бесплатный VPN на GitHub** или **проверенный Telegram-канал с конфигами** (без необходимости платной подписки), пожалуйста, напишите об этом в комментариях (Issues). 
 
 Мы всегда ищем свежие и быстрые сервера, чтобы поддерживать этот список в рабочем состоянии!
+## 📚 Источники конфигураций
+
+<details>
+  <summary><b>Нажмите, чтобы посмотреть список каналов и репозиториев</b></summary>
+  
+  Все ключи собраны из открытых источников и Telegram-каналов. Мы не владеем этими серверами и не гарантируем их стабильную работу.
+
+  **Telegram-каналы (основные источники):**
+  *   `@Vlessforu` (Tg: Vlessforu ❤️ FREE)
+  *   `@happcluchivpn__bot`
+  *   `@rostunnel` (RostTunnel)
+  *   `@vedavpn` / `@vedavpn_bot` (Veda VPN)
+  *   `@Unlisted__VPN` (Unlisted VPN)
+  *   `@KFCElmir` (V2Ключи 2.0)
+  *   `@hyri_user`
+  *   `@gasai__vpn`
+  *   `@remiuc` (All Hiddifycode)
+  *   `@LimeProdNews`
+  *   `@kfwlrus` (КФВЛ wl sub)
+  *   `@cheesyx` (AeryxVPN)
+  *   `@YoutubeUnBlockRu` (отсюда брались сервера для YouTube)
+  
+  **Прочие источники и подписки:**
+  *   `all_subs`
+  *   `adml1.vspboost.ru` / `adm2.vspboost.ru` (VSOP)
+  *   `UnlockVPN`
+  *   `Europe VPN`
+  *   `Нейро Лёха на связи`
+  *   `AetrisVPN`
+  *   `StealthNet`
+  *   `FreeUlitska`
+  *   `Бункер БС`
+  *   `Release vpn`
+  *   `clck.ru`
+  *   `veda.beer`
+  *   `pozor.bond`
+  *   `ws-slivalka.tuqo.ru`
+  *   `sub`
+
+  **GitHub-репозитории:**
+  *   `igareck/vpn-configs-for-russia`
+  *   `solovyov-jenya2004/all_subs`
+
+  ⚠️ *Внимание: со временем сервера могут переставать работать. Если сервер из этого списка перестал подключаться, просто удалите его или переведите в статус BD.*
+</details>
