@@ -88,7 +88,10 @@
   *   `@LimeProdNews`
   *   `@kfwlrus` (КФВЛ wl sub)
   *   `@cheesyx` (AeryxVPN)
-  *   `@YoutubeUnBlockRu` (отсюда брались сервера для YouTube)
+  *   `@YoutubeUnBlockRu` (сервера для YouTube)
+  *   `@halyava_vpnz` (Халява ВПН)
+  *   `@vpn_cat` (цитата Булгакова в описании)
+  *   `@HappKeysHubOriginal`
   
   **Прочие источники и подписки:**
   *   `all_subs`
@@ -106,6 +109,15 @@
   *   `pozor.bond`
   *   `ws-slivalka.tuqo.ru`
   *   `sub`
+  *   `NotAVPN`
+  *   `CatWhiteVPN`
+  *   `Потужно VPN Free`
+  *   `Халява ВПН / Mini`
+  *   `vspsub.onrender.com`
+  *   `dpaste.com`
+  *   `tinyurl.com`
+  *   `gist.githubusercontent...`
+  *   `githlic.ru`
 
   **GitHub-репозитории:**
   *   `igareck/vpn-configs-for-russia`
