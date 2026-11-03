@@ -90,7 +90,7 @@
   *   `@cheesyx` (AeryxVPN)
   *   `@YoutubeUnBlockRu` (сервера для YouTube)
   *   `@halyava_vpnz` (Халява ВПН)
-  *   `@vpn_cat` (цитата Булгакова в описании)
+  *   `@vpn_cat`
   *   `@HappKeysHubOriginal`
   
   **Прочие источники и подписки:**
